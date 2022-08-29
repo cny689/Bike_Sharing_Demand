@@ -1,4 +1,4 @@
-# miniproject
+# Bike_Sharing_Demand
 
 https://www.kaggle.com/competitions/bike-sharing-demand 
 kaggle의 자전거 대여 데이터셋 다운
